@@ -277,13 +277,3 @@ For questions or issues:
 1. Check this README
 2. Review the code comments
 3. Test with sample resumes first
-
-## 📄 License
-
-Free to use and modify for your business.
-
----
-
-**Built with ❤️ using Claude AI**
-
-Start getting leads today! 🚀
